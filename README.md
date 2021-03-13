@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hola! 👋, mi nombre es Alan</h1>
+<p align="center">
+Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollador de software 👨‍💻, principalmente web y movil.<br />Llevo programando desde los 14, pero lo que realmente me gusta son las matematicas 🧙‍♂️.
+</p>
+<br />
+
+- 🔭 Actualmente estoy trabajando en ReyBet
+- 🌱 Actualmente estoy aprendiendo Golang y topologia
+- 👯 Estoy buscando colaborar en software cientifico
+- 🤔 Estoy buscando ayuda para Wails (gui para Go)
+- 💬 Preguntame sobre Linux,desarrollo web, movil y aplicaciones empresariales
 
 <!--
 **AstralCam/AstralCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
