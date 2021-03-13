@@ -1,6 +1,9 @@
 <h1 align="center">Hola! 👋, mi nombre es Alan</h1>
 <p align="center">
-Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollador de software 👨‍💻, principalmente web y movil.<br />Llevo programando desde los 14, pero lo que realmente me gusta son las matematicas 🧙‍♂️.
+Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollador de software 👨‍💻, principalmente web y movil.<br />Llevo programando desde los 14, pero lo que realmente me gusta son las matematicas 🧙‍♂️.<br />
+  <br />
+   <img src="https://komarev.com/ghpvc/?username=AstralCam&label=visitas&color=0e75b6&style=flat" alt="AstralCam" />
+
 </p>
 <br />
 
