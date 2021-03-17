@@ -11,7 +11,7 @@ Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollad
 - 🌱 Actualmente estoy aprendiendo Golang y topologia
 - 👯 Estoy buscando colaborar en software cientifico
 - 🤔 Estoy buscando ayuda para Wails (gui para Go)
-- 💬 Preguntame sobre Linux,desarrollo web, movil y aplicaciones empresariales
+- 💬 Preguntame sobre Linux, desarrollo web, movil y aplicaciones empresariales
 
 <!--
 **AstralCam/AstralCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
