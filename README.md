@@ -10,7 +10,6 @@ Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollad
 - 🔭 Actualmente estoy trabajando en ReyBet
 - 🌱 Actualmente estoy aprendiendo Golang y topologia
 - 👯 Estoy buscando colaborar en software cientifico
-- 🤔 Estoy buscando ayuda para Wails (gui para Go)
 - 💬 Preguntame sobre Linux, desarrollo web, movil y aplicaciones empresariales
 
 <!--
