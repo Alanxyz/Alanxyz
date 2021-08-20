@@ -7,7 +7,7 @@ Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollad
 </p>
 <br />
 
-- 🔭 Actualmente estoy trabajando en ReyBet
+- 🔭 Actualmente estoy desempleado
 - 🌱 Actualmente estoy aprendiendo Haskell
 - 👯 Estoy buscando colaborar en software cientifico
 - 💬 Preguntame sobre Linux, desarrollo web, movil y aplicaciones empresariales
