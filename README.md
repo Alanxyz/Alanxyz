@@ -8,7 +8,7 @@ Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollad
 <br />
 
 - 🔭 Actualmente estoy desempleado
-- 🌱 Actualmente estoy aprendiendo Haskell
+- 🌱 Actualmente estoy aprendiendo Latín
 - 👯 Estoy buscando colaborar en software cientifico
 - 💬 Preguntame sobre Linux, desarrollo web, movil y aplicaciones empresariales
 
