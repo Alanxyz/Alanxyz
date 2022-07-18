@@ -12,7 +12,7 @@ Actualmente soy estudiante de fisica pura 👨‍🔬 y trabajo como desarrollad
 - 👯 Estoy buscando colaborar en software cientifico
 - 💬 Preguntame sobre Linux, desarrollo web, Vim, matematicas, fisica
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,apollo,bash,c,docker,espress,firebase,git,github,graphql,linux,mysql,nestjs,netlify,nextjs,nodejs,php,prisma,py,r,react,sass,sqlite,tailwind,ts,vim,vercel,postgres,latex,flask,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,apollo,bash,c,docker,express,firebase,git,github,graphql,linux,mysql,nestjs,netlify,nextjs,nodejs,php,prisma,py,r,react,sass,sqlite,tailwind,ts,vim,vercel,postgres,latex,flask,electron)](https://skillicons.dev)
 
 <!--
 **AstralCam/AstralCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
