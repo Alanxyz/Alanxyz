@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! 👋, mi nombre es Alan</h1>
 <p align="center">
-Actualmente soy estudiante de maestría en física y he trabajado como desarrollador de software.<br />Me interesa la programación funcional pura y el software suckless.
+Actualmente soy estudiante de maestría en física, y he trabajado como desarrollador de software.<br />Me interesa la programación funcional pura y el software suckless.
 </p>
 <br />
 
-- 🧙‍♂️ Me gusta escribir código en C, POSIX Shell Scripting, Julia y Haskell
+- 🧙‍♂️ Me gusta escribir código en C, POSIX Shell Scripting, Zig, Julia y Haskell
 - 👯 Estoy buscando colaborar en software cientifico
 - 💬 Preguntame sobre Linux, Vim, matematicas, física
 -  📫 Contactame con un email a alansierra _arroba_ protonmail _punto_ com.
